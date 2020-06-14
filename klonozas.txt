@@ -1,0 +1,10 @@
+Mi az a klónozás?
+
+Az a művelet, amikor egy meglévő Git repository tartalmát letöltöm a gépemre, és beállítom, hogy a Git figyelje a mappát.
+A klónozás lépései
+
+    A klónozható url kimásolása a GitHub oldaláról.
+    Parancssor nyitása a sajátgépen.
+    Betallózás a kívánt könyvtárba.
+    Klón parancs: git clone <repo_url>
+    Létrejön az új mappa, a neve megegyezik a repo nevével.
